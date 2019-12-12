@@ -1,0 +1,4 @@
+1. write a function to return if a year is leap year or not
+boolean isLeapYear(int year);
+
+2. calculate days between two dates, such as days between 2016.12.03 to 2018.09.01 
